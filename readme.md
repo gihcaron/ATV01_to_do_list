@@ -29,4 +29,4 @@ Este projeto é uma aplicação simples de lista de tarefas (To-Do List) que per
 
 ## Contato
 
-Para mais informações, entre em contato pelo email: giovanna.c.barros@aluno.senai.br
+Para mais informações, entre em contato pelo email: seu-email@exemplo.com
